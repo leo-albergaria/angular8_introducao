@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/128517044-022f0586-a722-4f69-a537-b45faa0f615d.png" align="left" height="150px" width="150px">
+    <h1># Introdução ao Angular 8</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Material disponibilizado pela Digital Innovation One em seu curso de Introdução ao Angular 8.
     </p>
 </p>      
 
